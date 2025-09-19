@@ -1,12 +1,12 @@
-## Welcome to My Home Page👋
+## Welcome to My Home Page🍁
 
 <!--
 **Ysv15/Ysv15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on accountant
-- 🌱 I’m currently learning web development
+- 🔭 I’m currently working on accountant💻
+- 🌱 I’m currently learning web development🎨
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
